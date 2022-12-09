@@ -2,8 +2,7 @@
 layout: cv
 title: Tyler Binning
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Tyler Binning
 
 <div id="webaddress">
 <a href="bin22008@byui.edu">bin22008@byui.edu</a>
