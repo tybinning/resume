@@ -6,7 +6,7 @@ title: Tyler Binning's Resume
 Data Science Major 
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="bin22008@byui.edu">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 </div>
 
