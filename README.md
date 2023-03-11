@@ -1,59 +1,36 @@
-# md-resume
+---
+layout: resume
+title: Tyler Binning's Resume
+---
+# Tyler Binning
+Data Science Major 
 
-A resume maintained in plain text and rendered to HTML and PDF using CSS.
+<div id="webaddress">
+<a href="bin22008@byui.edu">datascience@byui.edu</a>
+| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+</div>
 
-For more details, see the [markdown-csv project page](http://elipapa.github.io/markdown-cv), or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
+<!-- https://www.monique.tech/the-art-of-markdown -->
 
-***
 
-## Customization
+## Education
 
-Simply [fork the mdresume repo](https://github.com/byuids-resumes/mdresume)
+`2019-2022`
+__South Western Community College__, Osceola, Iowa
 
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+-  3.33/4.0 GPA
+-  29 Credits
 
-and edit the `index.md` file in the `docs` folder [directly in Github](https://help.github.com/articles/editing-files-in-your-repository/)
+`Expected 2025`
+__Brigham Young University - Idaho__, Rexburg, ID
 
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
+- Data Science Major
+- 3.67/4.0 GPA
 
-adding your skills, jobs and education.
 
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
 
-## Distribution
-
-To transform your plain text resume into a beautiful and shareable HTML page, you have two options:
-
-### I. Use Github Pages to publish it online
-
-1. Edit or move your resume to the `index.md` file in the `docs` folder.
-2. Go to settings > GitHub pages to make the changes shown.
-
-![](docs_setup.png)
-
-3. Head to *yourusername*.github.io/mdresume to see your resume live.
-
-Any change you want to make to your CV from then on would have to be done in the `docs` folder and will be immediately rendered by Github Pages.
-
-## Styling
-
-The included CSS will render your CV in two styles:
-s
-1. `kjhealy` the original default, inspired by [kjhealy's vita
-template](https://github.com/kjhealy/kjh-vita).
-2. `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
-  right aligned.
-
-To change the default style, simply change the variable in the
-`_config.yml` file.
-
-Any other styling is possible. More CSS style contributions and forks are welcome!
-
-### Author
-
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
-
-![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
+<!-- ### Footer
+Last updated: May 2013 -->
 
 ### License
 
