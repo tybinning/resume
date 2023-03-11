@@ -24,7 +24,8 @@ __South Western Community College__, Osceola, Iowa
 `Expected 2029`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 3.67/4.0 Data Science GPA
+- Data Science Major
+- 3.67/4.0 GPA
 
 
 
